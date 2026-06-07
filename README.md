@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/brands/logoicon.webp" alt="Mectris" width="88" height="88" />
+<img src="https://i.imgur.com/eIuzH78.png" alt="Mectris" width="88" height="88" />
 
 # Mectris
 
